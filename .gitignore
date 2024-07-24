@@ -1,3 +1,6 @@
 pretrained_model/
 test_audio/
 tts_wav/
+
+# DS store
+**/.DS_Store
